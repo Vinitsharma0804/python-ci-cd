@@ -2,6 +2,7 @@
 
 
 def main():
+    """Prints a friendly greeting."""
     print("Hello, world!")
 
 
